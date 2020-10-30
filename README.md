@@ -1,5 +1,8 @@
 ## Getting Started with Docusaurus
 
+Say, you want to host site in your GITHUB repository.
+First clone the repostiory where you want to host it as shown below:
+
 
 ```
 git clone https://github.com/redis-developer/developer
